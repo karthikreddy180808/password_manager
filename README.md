@@ -12,6 +12,6 @@
 - mysql.connector.
 - hashlib.
 
-#pip
+# pip
 
 - pip install mysql-connector-python.
