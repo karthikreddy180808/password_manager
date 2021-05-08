@@ -12,6 +12,8 @@
 - mysql.connector.
 - hashlib.
 
-# pip
+# requirments 
 
+- mysql installed. 
+- keep the server of mysql turned on.
 - pip install mysql-connector-python.
